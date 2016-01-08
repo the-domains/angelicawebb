@@ -1,0 +1,28 @@
+name: angelicawebb
+favicon: null
+layout_spectrum: 0.484948449768126
+typography_spectrum: 0.38391601550392807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3433397635817528
+  lightness: 0.9225498787127435
+  saturation: 0.785850053653121
+  rhythmicContrast: 0.964460545219481
+purpose: []
