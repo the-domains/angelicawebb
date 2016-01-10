@@ -17,8 +17,8 @@ keywords:
   - daily
   - berkeley
 description: 'Social car sharing: Rent cars by the hour from people around you. Start renting out yours today and earn cash.'
-datePublished: '2016-01-10T02:46:49.767Z'
-dateModified: '2016-01-10T02:46:44.806Z'
+datePublished: '2016-01-10T03:41:49.427Z'
+dateModified: '2016-01-10T03:41:46.995Z'
 author: []
 related: []
 app_links: []
