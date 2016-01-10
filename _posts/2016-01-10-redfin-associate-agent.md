@@ -17,20 +17,20 @@ keywords:
   - aboutpressresearchblogjobsservicesreferralsmobilefeedbackcontact
   - ushelp
 description: Search all real estate listings. Tour homes and make offers with the help of local Redfin real estate agents.
-datePublished: '2016-01-10T02:42:25.451Z'
-dateModified: '2016-01-10T02:42:12.599Z'
+datePublished: '2016-01-10T03:05:33.312Z'
+dateModified: '2016-01-10T03:05:30.705Z'
 author: []
 related: []
 app_links: []
 title: Redfin - Associate Agent
+sourcePath: _posts/2016-01-10-redfin-associate-agent.md
+published: true
 authors: []
 publisher:
   name: Redfin
   domain: www.redfin.com
   url: 'https://www.redfin.com'
   favicon: 'https://www.redfin.com/favicon.ico?v=3'
-sourcePath: _posts/2016-01-10-redfin-associate-agent.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -40,5 +40,3 @@ _type: MediaObject
 I'm a licensed real estate broker in Oregon. In my spare time as my side hustle I'm an Associate Agent at Redfin. 
 
 Redfin is awesome because we're not paid on commission! We're paid based on customer happiness. I love it because I'm able to put the needs of the customer first, and not have to worry about closing a sale. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a75d92ca-5279-47f1-b178-346eb87eff22.png)
-
-<article style=""><h1>Real Estate&amp;comma; Homes for Sale&amp;comma; MLS Listings&amp;comma; Agents &amp;vert; Redfin</h1><p>Search all real estate listings&amp;period; Tour homes and make offers with the help of local Redfin real estate agents&amp;period;</p><img src="https://ssl.cdn-redfin.com/v87.2/images/logos/redfin-logo-100x100.jpg" /></article>
