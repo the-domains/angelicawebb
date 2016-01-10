@@ -17,8 +17,8 @@ keywords:
   - aboutpressresearchblogjobsservicesreferralsmobilefeedbackcontact
   - ushelp
 description: Search all real estate listings. Tour homes and make offers with the help of local Redfin real estate agents.
-datePublished: '2016-01-10T03:43:55.534Z'
-dateModified: '2016-01-10T03:43:52.550Z'
+datePublished: '2016-01-10T03:56:56.581Z'
+dateModified: '2016-01-10T03:56:48.626Z'
 author: []
 related: []
 app_links: []
@@ -39,4 +39,4 @@ _type: MediaObject
 
 I'm a licensed real estate broker in Oregon. In my spare time as my side hustle I'm an Associate Agent at Redfin. 
 
-Redfin is awesome because we're not paid on commission! We're paid based on customer happiness. I love it because I'm able to put the needs of the customer first, and not have to worry about closing a sale. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a75d92ca-5279-47f1-b178-346eb87eff22.png)
+Redfin is awesome because we're not paid on commission! We're paid based on customer happiness. I love it because I'm able to put the needs of the customer first, and not have to worry about closing a sale. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef7b3296-bc69-49df-9698-39b22545dd46.jpg)
