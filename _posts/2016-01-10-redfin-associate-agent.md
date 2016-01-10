@@ -17,8 +17,8 @@ keywords:
   - aboutpressresearchblogjobsservicesreferralsmobilefeedbackcontact
   - ushelp
 description: Search all real estate listings. Tour homes and make offers with the help of local Redfin real estate agents.
-datePublished: '2016-01-10T03:05:33.312Z'
-dateModified: '2016-01-10T03:05:30.705Z'
+datePublished: '2016-01-10T03:43:55.534Z'
+dateModified: '2016-01-10T03:43:52.550Z'
 author: []
 related: []
 app_links: []
