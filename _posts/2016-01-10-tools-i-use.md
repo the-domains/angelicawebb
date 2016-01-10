@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T04:36:33.142Z'
-dateModified: '2016-01-10T04:35:43.927Z'
+datePublished: '2016-01-10T04:40:11.741Z'
+dateModified: '2016-01-10T04:40:09.225Z'
 title: Tools I Use
 author: []
 sourcePath: _posts/2016-01-10-tools-i-use.md
@@ -36,5 +36,6 @@ CRM Platforms:
 Other:
 
 * Google Docs
+* Stripe
 * PhotoShop
 * Iorad Tutorial Builder
