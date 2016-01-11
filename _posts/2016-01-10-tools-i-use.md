@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T04:57:46.154Z'
-dateModified: '2016-01-10T04:57:39.897Z'
+datePublished: '2016-01-11T04:08:58.591Z'
+dateModified: '2016-01-11T04:08:55.445Z'
 title: Tools I Use
 author: []
 sourcePath: _posts/2016-01-10-tools-i-use.md
@@ -31,7 +31,7 @@ Team Communication:
 CRM Platforms:
 
 * ZenDesk
-* HelpScout
+* Help Scout
 
 Other:
 
