@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T15:43:16.410Z'
-dateModified: '2016-01-11T15:43:12.586Z'
+datePublished: '2016-01-11T16:01:15.719Z'
+dateModified: '2016-01-11T16:01:11.281Z'
 title: Support Philosophy
 author: []
 sourcePath: _posts/2016-01-11-support-philosophy.md
