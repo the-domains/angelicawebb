@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T15:28:48.263Z'
-dateModified: '2016-01-11T15:28:45.022Z'
+datePublished: '2016-01-11T16:12:34.697Z'
+dateModified: '2016-01-11T16:12:31.546Z'
 title: What I Can Offer The Grid
 author: []
 sourcePath: _posts/2016-01-10-what-i-can-offer-the-grid.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: what-i-can-offer-the-grid/index.html
-_type: Article
+_type: Blurb
 
 ---
 What I Can Offer The Grid:
