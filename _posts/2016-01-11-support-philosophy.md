@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T16:06:30.030Z'
-dateModified: '2016-01-11T16:06:26.627Z'
+datePublished: '2016-01-11T16:09:04.687Z'
+dateModified: '2016-01-11T16:08:59.168Z'
 title: Support Philosophy
 author: []
 sourcePath: _posts/2016-01-11-support-philosophy.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: support-philosophy/index.html
-_type: WebPage
+_type: Article
 
 ---
 * Empathetic listening is paramount
