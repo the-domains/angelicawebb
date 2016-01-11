@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T15:41:43.147Z'
-dateModified: '2016-01-11T15:41:31.940Z'
+datePublished: '2016-01-11T15:43:16.410Z'
+dateModified: '2016-01-11T15:43:12.586Z'
 title: Support Philosophy
 author: []
+sourcePath: _posts/2016-01-11-support-philosophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-support-philosophy.md
-published: true
 url: support-philosophy/index.html
 _type: WebPage
 
