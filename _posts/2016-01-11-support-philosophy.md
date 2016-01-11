@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T16:14:18.405Z'
-dateModified: '2016-01-11T16:14:15.496Z'
+datePublished: '2016-01-11T16:17:02.385Z'
+dateModified: '2016-01-11T16:16:57.752Z'
 title: Support Philosophy
 author: []
 sourcePath: _posts/2016-01-11-support-philosophy.md
@@ -33,4 +33,3 @@ _type: WebPage
 * Offer a solution
 
 "Angie helped us to think about how to see some small changes make a big difference in a home."
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32eef6e6ba99ce76d26c75d512a1b750a414307a.jpg)
