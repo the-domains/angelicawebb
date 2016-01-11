@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T16:09:04.687Z'
-dateModified: '2016-01-11T16:08:59.168Z'
+datePublished: '2016-01-11T16:10:52.074Z'
+dateModified: '2016-01-11T16:10:47.542Z'
 title: Support Philosophy
 author: []
 sourcePath: _posts/2016-01-11-support-philosophy.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: support-philosophy/index.html
-_type: Article
+_type: WebPage
 
 ---
 * Empathetic listening is paramount
@@ -30,7 +30,7 @@ _type: Article
 
 "Angie was warm, engaging and helpful. Loved meeting her and hearing her feedback on the house."
 
-* Offer solutions
+* Offer a solution
 
 "Angie helped us to think about how to see some small changes make a big difference in a home."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cfea550-36e6-4cf0-aad5-ab8a8f6b13fd.jpg)
