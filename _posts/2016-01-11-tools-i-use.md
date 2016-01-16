@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T06:00:52.559Z'
-dateModified: '2016-01-15T06:00:47.902Z'
+datePublished: '2016-01-16T05:07:53.745Z'
+dateModified: '2016-01-16T05:07:51.606Z'
 title: Tools I Use
 author: []
 sourcePath: _posts/2016-01-11-tools-i-use.md
@@ -22,20 +22,12 @@ url: tools-i-use/index.html
 _type: WebPage
 
 ---
-Team Communication:
-
 * Slack
 * Flowdock
 * Trello
-
-CRM Tool:
-
 * ZenDesk
 * Help Scout
 * Wistia
-
-Other:
-
 * Google Docs
 * PhotoShop
 * Stripe
