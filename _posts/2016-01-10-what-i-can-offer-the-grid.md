@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-11T16:13:35.112Z'
-dateModified: '2016-01-11T16:13:31.652Z'
+description: 'What I Can Offer The Grid:'
+datePublished: '2016-03-10T20:48:55.561Z'
+dateModified: '2016-03-10T20:48:47.123Z'
 title: What I Can Offer The Grid
 author: []
 sourcePath: _posts/2016-01-10-what-i-can-offer-the-grid.md
