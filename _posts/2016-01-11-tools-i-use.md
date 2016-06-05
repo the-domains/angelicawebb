@@ -3,21 +3,16 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T04:26:27.539Z'
-dateModified: '2016-01-17T04:26:25.051Z'
-title: Tools I Use
+datePublished: '2016-06-05T03:14:59.223Z'
+dateModified: '2016-06-05T03:14:58.807Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-11-tools-i-use.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: tools-i-use/index.html
 _type: WebPage
 
