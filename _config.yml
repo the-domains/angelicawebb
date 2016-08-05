@@ -2,6 +2,7 @@ name: angelicawebb
 favicon: null
 layout_spectrum: 0.08448810852132738
 typography_spectrum: 0.44552800711244345
+style: the-composer
 cta:
   domain: null
   bucket: null
